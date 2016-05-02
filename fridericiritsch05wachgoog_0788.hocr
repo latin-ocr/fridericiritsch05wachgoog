@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fridericiritsch05wachgoog_0788.png"; bbox 0 0 875 1415; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 68 75 625 282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 68 75 625 282">
+     <span class='ocr_line' id='line_1_1' title="bbox 68 75 625 282; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 68 75 625 282; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 629 130 804 161">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 629 130 804 161">
+     <span class='ocr_line' id='line_1_2' title="bbox 629 130 804 161; baseline -0.023 3"><span class='ocrx_word' id='word_1_2' title='bbox 629 138 632 139; x_wconf 72' lang='grc'>’</span> <span class='ocrx_word' id='word_1_3' title='bbox 666 130 804 161; x_wconf 50' lang='grc' dir='ltr'><strong>Ἶῖῗῖξε</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 463 199 564 215">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 463 199 564 215">
+     <span class='ocr_line' id='line_1_3' title="bbox 463 199 564 215; baseline -0.04 0"><span class='ocrx_word' id='word_1_4' title='bbox 463 199 564 215; x_wconf 63' lang='grc' dir='ltr'>εεεεεεεεε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 436 195 704 285">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 436 195 704 285">
+     <span class='ocr_line' id='line_1_4' title="bbox 436 195 704 285; baseline -0.037 -18"><span class='ocrx_word' id='word_1_5' title='bbox 436 195 704 285; x_wconf 40' lang='grc' dir='ltr'>ιιιιικκοᾎιῃζηκριῃῐῂυῐὴῖῇᾓῆιυιι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 68 755 135 1337">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 68 755 135 1337">
+     <span class='ocr_line' id='line_1_5' title="bbox 68 755 135 1337; baseline 0 78"><span class='ocrx_word' id='word_1_6' title='bbox 68 755 135 1337; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
